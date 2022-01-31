@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Dontbesotoxic
-- 👀 I’m interested in JavaScript
+- 👋 Hi, I’m @Dontbesotoxic 
+- 👀 I’m interested in JavaScript 
+- ToxicDevelopment Soon!
 - 🌱 I’m currently learning JavaScript // Type script
 - 📫toXic#8384
 
